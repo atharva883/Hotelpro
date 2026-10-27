@@ -29,7 +29,7 @@ HotelPro is a responsive, full-stack hotel booking and property management syste
 ## 🌟 Project Overview & Key Features
 
 ### 🏨 Public Guest Experience
-- **Luxury Hospitality UI**: Navy, warm gold (`#C5A880`), and crisp white theme with Google Fonts (*Playfair Display* & *Plus Jakarta Sans*).
+- **Premium Indian Hospitality UI**: Deep indigo (#172747), royal maroon (#702D3D), warm ivory (#F7F2E8), antique gold (#C5A46D), terracotta (#B96648), and charcoal (#252525) design system with Playfair Display & Inter fonts.
 - **Interactive Search & Availability**: Search rooms by check-in / check-out dates, guest count, and room category.
 - **Dynamic Filter Controls**: Filter by category (Single, Double, Deluxe, Suite, Presidential), price slider, capacity, and live search keywords.
 - **Suite Details & Real-Time Price Engine**: Multi-photo gallery preview, amenities badges, live calculation of nights and total price with tax breakdown.
